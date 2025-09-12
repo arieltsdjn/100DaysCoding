@@ -1,4 +1,5 @@
-public static void main(String[] args) {
+public class Main {
+    public static void main(String[] args) {
         byte byte1 = 18;
         short short1 = 44;
         int int1 = 321;
@@ -9,3 +10,4 @@ public static void main(String[] args) {
         System.out.println("Int   : " + int1);
         System.out.println("Long  : " + long1);
     }
+}
