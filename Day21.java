@@ -1,11 +1,10 @@
 public class Main {
     public static void main(String[] args) {
-        int a = 96;
-        int b = 69;
+        int a = 1;
+        int b = 2;
 
         System.out.println("Sebelum tukar: a = " + a + ", b = " + b);
 
-        // Proses tukar tanpa temp
         a = a + b;
         b = a - b;
         a = a - b;
