@@ -2,7 +2,7 @@ public class Main {
     public static void main(String[] args) {
         int a = 8;
         int b = 12;
-        int c = 8
+        int c = 8;
 
         System.out.println(a <= b);  
         System.out.println(a >= b);
