@@ -4,7 +4,7 @@ public class Main {
         Scanner s = new Scanner(System.in);
         System.out.print("masukkan gaji pokok: ");
         double gaji = s.nextDouble();
-        System.out.print("masukkan jumlah anak (kalau >3, tunjangan 5%): ");
+        System.out.print("masukkan jumlah anak (kalau >=3, tunjangan 5%): ");
         double anak = s.nextDouble();
         System.out.print("masukkan pajak (%): ");
         double pajak = s.nextDouble()/100;
