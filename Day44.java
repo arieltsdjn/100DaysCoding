@@ -10,7 +10,7 @@ public class Main {
         else if (nilai>80) predikat='B';
         else if (nilai>70) predikat='C';
         else if (nilai>60) predikat='D';
-        else if (nilai<50) predikat='E';
+        else if (nilai<60) predikat='E';
         System.out.println("predikat kamu: "+predikat);
     }
 }
