@@ -1,4 +1,4 @@
-public class HelloWorld {
+public class Main {
     public static void main(String[] args) {
         int angka = 1;
         while (angka <= 5) {
